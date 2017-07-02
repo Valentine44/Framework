@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92566" started-at="2017-07-02T15:30:41Z" finished-at="2017-07-02T15:32:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92566" started-at="2017-07-02T15:30:41Z" finished-at="2017-07-02T15:32:13Z">
+      <class name="by.epam.atmentoring.framework.test.PageObjectGmailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="setUp" is-config="true" duration-ms="3568" started-at="2017-07-02T18:30:41Z" finished-at="2017-07-02T18:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mouseKeyboardActions()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="mouseKeyboardActions" duration-ms="15254" started-at="2017-07-02T18:30:44Z" finished-at="2017-07-02T18:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseKeyboardActions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="tearDown" is-config="true" duration-ms="838" started-at="2017-07-02T18:31:00Z" finished-at="2017-07-02T18:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="setUp" is-config="true" duration-ms="3125" started-at="2017-07-02T18:31:01Z" finished-at="2017-07-02T18:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jsInjection()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="jsInjection" duration-ms="12155" started-at="2017-07-02T18:31:04Z" depends-on-methods="by.epam.atmentoring.framework.test.PageObjectGmailTest.mouseKeyboardActions" finished-at="2017-07-02T18:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsInjection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="tearDown" is-config="true" duration-ms="880" started-at="2017-07-02T18:31:16Z" finished-at="2017-07-02T18:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="setUp" is-config="true" duration-ms="3135" started-at="2017-07-02T18:31:17Z" finished-at="2017-07-02T18:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Scenario1()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="Scenario1" duration-ms="17060" started-at="2017-07-02T18:31:20Z" depends-on-methods="by.epam.atmentoring.framework.test.PageObjectGmailTest.jsInjection" finished-at="2017-07-02T18:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="tearDown" is-config="true" duration-ms="807" started-at="2017-07-02T18:31:37Z" finished-at="2017-07-02T18:31:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="setUp" is-config="true" duration-ms="3128" started-at="2017-07-02T18:31:38Z" finished-at="2017-07-02T18:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Scenario2()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="Scenario2" duration-ms="11737" started-at="2017-07-02T18:31:41Z" depends-on-methods="by.epam.atmentoring.framework.test.PageObjectGmailTest.Scenario1" finished-at="2017-07-02T18:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="tearDown" is-config="true" duration-ms="806" started-at="2017-07-02T18:31:53Z" finished-at="2017-07-02T18:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="setUp" is-config="true" duration-ms="3152" started-at="2017-07-02T18:31:53Z" finished-at="2017-07-02T18:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Scenario3()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="Scenario3" duration-ms="16091" started-at="2017-07-02T18:31:57Z" depends-on-methods="by.epam.atmentoring.framework.test.PageObjectGmailTest.Scenario2" finished-at="2017-07-02T18:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.epam.atmentoring.framework.test.PageObjectGmailTest@224edc67]" name="tearDown" is-config="true" duration-ms="811" started-at="2017-07-02T18:32:13Z" finished-at="2017-07-02T18:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.epam.atmentoring.framework.test.PageObjectGmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
